@@ -1,0 +1,21 @@
+{
+  "name": "analysis-tool",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "element-plus": "^2.3.3",
+    "normalize.css": "^8.0.1",
+    "vue": "^3.2.47"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "less": "^4.1.3",
+    "less-loader": "^11.1.0",
+    "vite": "^4.1.4"
+  }
+}
